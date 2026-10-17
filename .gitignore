@@ -1,0 +1,8 @@
+# Compiled executables
+a.out
+cash
+credit
+main
+
+# Object files
+*.o
