@@ -3,6 +3,8 @@ a.out
 cash
 credit
 main
+*.tar.gz
+scrabble/scrabble
 
 # Object files
 *.o
